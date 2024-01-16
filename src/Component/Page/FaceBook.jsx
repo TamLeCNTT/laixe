@@ -5,7 +5,7 @@ const FaceBook = () => {
       <FacebookProvider appId="670283444932151" chatSupport>
         <CustomChat
           class="fb-customerchat"
-          pageId="100057067666581"
+          pageId="102061176154237"
           minimized={true}
         />
       </FacebookProvider>
